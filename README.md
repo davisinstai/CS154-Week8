@@ -1,6 +1,6 @@
-# CS154-Week7
+# CS154-Week8
 
 Topics:
-* Recursion
-* Efficiency
-* Top-Down Design
+* Top-down design
+* Classes and objects
+* Inheritance and scope
